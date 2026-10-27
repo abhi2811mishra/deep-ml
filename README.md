@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 31 problems · 0 labs · 0 math
+**32** solved · 32 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-15 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-10-19 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-18 | [solution](problems/0016-feature-scaling-implementation) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-27 | [solution](problems/0046-implement-precision-metric) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-10-24 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-10-20 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-24 | [solution](problems/0039-implementation-of-log-softmax-function) |
